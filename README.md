@@ -1,1 +1,2 @@
 # guardian
+The project is based on Image Processing. In this project there will be a database of different images. In this either the image or some specification of the image will be the input and as output corresponding image will be displayed. The problem this project solves is selection of most relevant image/(s) from a set of lot of redundant images. For instance if a user enters an image of a person with blue spectacles; all images of people wearing will be displayed from the database.
