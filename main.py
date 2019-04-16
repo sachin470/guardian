@@ -14,7 +14,7 @@ while(a==1):
     n=int(input())
     if(n==1):
         print("Enter 1 to train your face by webcam")
-        print("Enter 2 for train face by image")
+        print("Enter 2 for train by image")
         m=int(input())
         if(m==1):
             datasetcreater.trainw()
